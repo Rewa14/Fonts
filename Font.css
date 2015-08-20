@@ -1,0 +1,133 @@
+@font-face {
+    font-family: disney;
+    src: url(Fonts2.0/waltograph42.otf);
+}
+@font-face {
+    font-family: disneyBold;
+    src: url(Fonts2.0/waltographUI.ttf);
+}
+@font-face {
+    font-family: land;
+    src: url(Fonts2.0/started-by-a-mouse.ttf);
+}
+@font-face {
+    font-family: bttf;
+    src: url(Fonts2.0/BTTF.ttf);
+}
+@font-face {
+    font-family: pac;
+    src: url(Fonts2.0/Pac-Font.ttf);
+}
+@font-face {
+    font-family: avenge;
+    src: url(Fonts2.0/heroesassembleital2.ttf);
+}
+@font-face {
+    font-family: avenge2;
+    src: url(Fonts2.0/heroesassemble2.ttf);
+}
+@font-face {
+    font-family: jedi;
+    src: url(Fonts2.0/Starjedi.ttf);
+}
+@font-face {
+    font-family: jones;
+    src: url(Fonts2.0/sfFedoraShadow.ttf);
+}
+@font-face {
+    font-family: potter;
+    src: url(Fonts2.0/HarryP__.ttf);
+}
+@font-face {
+    font-family: aladdin;
+    src: url(Fonts2.0/aladdin.ttf);
+}
+@font-face {
+    font-family: friends;
+    src: url(Fonts2.0/Friends_.ttf);
+}
+@font-face {
+    font-family: park;
+    src: url(Fonts2.0/JurassicPark.ttf);
+}
+@font-face {
+    font-family: pirates;
+    src: url(Fonts2.0/PiecesOfEight.ttf);
+}
+@font-face {
+    font-family: tron;
+    src: url(Fonts2.0/Tron.ttf);
+}
+@font-face {
+    font-family: ghost;
+    src: url(Fonts2.0/ghostbus.ttf);
+}
+@font-face {
+    font-family: fedora;
+    src: url(Fonts2.0/sfFedoraShadow.ttf);
+}
+@font-face {
+    font-family: fedora2;
+    src: url(Fonts2.0/sfFedoraTitles.ttf);
+}
+@font-face {
+    font-family: stark;
+    src: url(Fonts2.0/stark.otf);
+}
+@font-face {
+    font-family: PF;
+    src: url(Fonts2.0/PhineasAndFerbFontForNick.ttf);
+}
+@font-face {
+    font-family: stitch;
+    src: url(Fonts2.0/BukaBird.ttf);
+}
+@font-face {
+    font-family: mansion;
+    src: url(Fonts2.0/thehauntedmansion.ttf);
+}
+@font-face {
+    font-family: doctor;
+    src: url(Fonts2.0/doctor_who.ttf);
+}
+@font-face {
+    font-family: swash;
+    src: url(Fonts2.0/BerkshireSwash-Regular.ttf);
+}
+@font-face {
+    font-family: magra;
+    src: url(Fonts2.0/Magra-Regular.ttf);
+}
+@font-face {
+    font-family: mickey;
+    src: url(Fonts2.0/MouseMemoirs-Regular.ttf);
+}
+@font-face {
+    font-family: galaxy;
+    src: url(Fonts2.0/Guardians.ttf);
+}
+@font-face {
+    font-family: spider;
+    src: url(Fonts2.0/TheAmazingSpider-Man.ttf);
+}
+@font-face {
+    font-family: captain;
+    src: url(Fonts2.0/AmericanCaptain.ttf);
+}
+@font-face {
+    font-family: pixel;
+    src: url(Fonts2.0/RetroComputer_DEMO.ttf);
+}
+@font-face {
+    font-family: art;
+    src: url(Fonts2.0/Artbrush.ttf);
+}
+@font-face {
+    font-family: ;
+    src: url(Fonts2.0/);
+}
+body {
+    font-family: disney;
+    background: linear-gradient(lightseagreen, aqua);
+    font-size: 45px;
+}
